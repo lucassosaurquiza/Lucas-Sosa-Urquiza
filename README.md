@@ -7,7 +7,7 @@ Un desarrollador de software júnior.
 
 👨‍💻 Todos mis proyectos están disponibles en https://github.com/lucassosaurquiza.
 
-💬 Pregúntame sobre sass, js, html, css, react, expressjs, mongo.
+💬 Pregúntame sobre js, html, css, react, expressjs, mongo.
 
 📫 Como contactarme: lucassosaurquiza@gmail.com
 
